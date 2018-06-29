@@ -77,8 +77,8 @@
 ### 虚拟机
 
 - Docker
+- ParallelsDesktop
 - VirtualBox
-
 
 
 ### 思维导图
