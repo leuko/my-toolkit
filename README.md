@@ -1,7 +1,7 @@
 # my-toolkit
 
  工欲善其事，必先利其器
-
+ All for Mac OS
 
 
 ## 系统级工具
@@ -58,17 +58,19 @@
 
 - PhotoShop
 
-  
-
-### 数据库管理
-
-- Sequel Pro
-
-- rdm
+- Paintbrush
 
   
 
-### Mardown
+### 数据库管理客户端
+
+- Sequel Pro for MySQL
+
+- rdm for Redis
+
+  
+
+### Mardown editor
 
 - Typora
 
